@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/ws-chart/messaging"
+	"github.com/ievgen-ma/ws-chart/messaging"
 	"net/http"
 )
 

@@ -3,9 +3,9 @@ package rpc
 import (
 	"encoding/json"
 
-	"github.com/ws-chart/core"
-	"github.com/ws-chart/messaging/client"
-	"github.com/ws-chart/protocol"
+	"github.com/ievgen-ma/ws-chart/core"
+	"github.com/ievgen-ma/ws-chart/messaging/client"
+	"github.com/ievgen-ma/ws-chart/protocol"
 )
 
 var messageService = newMessages()

@@ -2,9 +2,9 @@ package rpc
 
 import (
 	"github.com/twinj/uuid"
-	"github.com/ws-chart/messaging/client"
-	"github.com/ws-chart/messaging/events"
-	"github.com/ws-chart/protocol"
+	"github.com/ievgen-ma/ws-chart/messaging/client"
+	"github.com/ievgen-ma/ws-chart/messaging/events"
+	"github.com/ievgen-ma/ws-chart/protocol"
 )
 
 type messages struct{}

@@ -7,11 +7,11 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/gorilla/websocket"
-	"github.com/ws-chart/core"
-	"github.com/ws-chart/datastore"
-	"github.com/ws-chart/messaging/client"
-	"github.com/ws-chart/messaging/rpc"
-	"github.com/ws-chart/protocol"
+	"github.com/ievgen-ma/ws-chart/core"
+	"github.com/ievgen-ma/ws-chart/datastore"
+	"github.com/ievgen-ma/ws-chart/messaging/client"
+	"github.com/ievgen-ma/ws-chart/messaging/rpc"
+	"github.com/ievgen-ma/ws-chart/protocol"
 )
 
 const (
