@@ -1,7 +1,7 @@
 ```bash
-{"method":40,"request_id":"user__2","body":{"data":"blablabla"}}
+{"method":40,"request_id":"user__2","body":{"data":"test"}}
 
-{"type":20,"response_to":"user__2","body":{"message_id":"b6c9aa8b-e864-499f-8c85-e4c8016cc13b","data":"hello my friend from user 1 blblb"}}
+{"type":20,"response_to":"user__2","body":{"message_id":"b6c9aa8b-e864-499f-8c85-e4c8016cc13b","data":"tst"}}
 {"type":21,"response_to":"user__2","body":{"message_id":"b6c9aa8b-e864-499f-8c85-e4c8016cc13b"}}
 
 {"method":41,"request_id":"user__1","body":{"message_id":"b6c9aa8b-e864-499f-8c85-e4c8016cc13b"}}
